@@ -38,3 +38,7 @@ yarn-error.log*
 /.wrangler/
 /outputs/
 /work/
+
+# Internal planning documents
+/INTERACTION_AUDIT.md
+/PRODUCTION_ROADMAP.md
